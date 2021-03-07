@@ -2,16 +2,16 @@
 My name is Priyanshu Agarwal. I am a tech enthusiast and more precisely a Flutter Developer .I love to work on new and exciting flutter projects and collabrate with people.
 
 ## I’m currently working on 💻
-Android and web Flutter projects :relaxed:
+Android and web Flutter projects :wink:
 
 ## How to reach me 📫
 Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/priyanshu-01) <br />
 <!-- [Instagram](https://www.instagram.com/priyanshu-01h/)<br /> -->
 [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=priyanshu.agarwal88@gmail.com
-<!-- &su=SUBJECT&body=BODY -->
 &tf=1)<br />
 [Portfolio](https://www.priyanshuagarwal.tech/#/)
+<!-- &su=SUBJECT&body=BODY -->
 
 
 ## Languages and Frameworks I work on 👨‍
