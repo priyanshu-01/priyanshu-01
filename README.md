@@ -8,7 +8,7 @@ Android and web Flutter projects :wink:
 Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/priyanshu-01) <br />
 <!-- [Instagram](https://www.instagram.com/priyanshu-01h/)<br /> -->
-[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=priyanshu.agarwal88@gmail.com<br>
+[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=priyanshu.agarwal88@gmail.com)<br/>
 [Portfolio](https://www.priyanshuagarwal.tech/#/)
 <!-- &tf=1&su=SUBJECT&body=BODY -->
 
