@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋
+My name is Priyanshu Agarwal. I am a tech enthusiast and more precisely a Flutter Developer .I love to work on new and exciting flutter projects and collabrate with people.
 
-<!--
-**priyanshu-01/priyanshu-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m currently working on 💻
+Android and web Flutter projects :relaxed:
 
-Here are some ideas to get you started:
+## How to reach me 📫
+Pick your favorite means of communication and ping me.</br>
+[GitHub](https://github.com/priyanshu-01) <br />
+<!-- [Instagram](https://www.instagram.com/priyanshu-01h/)<br /> -->
+[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=priyanshu.agarwal88@gmail.com
+<!-- &su=SUBJECT&body=BODY -->
+&tf=1)<br />
+[Portfolio](https://www.priyanshuagarwal.tech/#/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages and Frameworks I work on 👨‍
+
+<div>
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  <!-- <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> -->
+</div>
+
+
+## My Github Repo Stats 📈
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=priyanshu-01&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=73ffbb&bg_color=151515&count_private=true&hide_title=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-01&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
+
